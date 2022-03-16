@@ -1,2 +1,11 @@
 # Project exclude paths
 /out/
+/.idea/description.html
+/.idea/encodings.xml
+/src/Lession4/Experements/Ex.java
+/HomeWorkAppJC1.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/project-template.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
